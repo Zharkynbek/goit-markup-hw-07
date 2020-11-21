@@ -1,6 +1,6 @@
 .logo-icons {
   @extend %list;
-  display: $type;
+  display: flex;
   padding-left: 0;
   justify-content: center;
   margin-bottom: 0;
@@ -20,7 +20,7 @@
 }
 
 .company-icons {
-  display: $type;
+  display: flex;
   justify-content: center;
   align-items: center;
   width: 170px;

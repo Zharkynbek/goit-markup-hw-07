@@ -16,7 +16,7 @@
 
 .thumb {
   position: relative;
-  display: $type;
+  display: flex;
   overflow: hidden;
 
   .thumb-text {

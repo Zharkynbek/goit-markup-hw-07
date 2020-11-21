@@ -113,7 +113,7 @@
 
   .form-field {
     position: relative;
-    display: $type;
+    display: flex;
     flex-direction: column;
     margin-bottom: 10px;
     font-family: Roboto;
@@ -220,7 +220,7 @@
 }
 
 .contract {
-  display: $type;
+  display: flex;
   align-items: center;
   justify-content: center;
   font-size: 14px;
@@ -237,7 +237,7 @@
   }
 
   .contract-box {
-    display: $type;
+    display: flex;
     align-items: center;
     margin-left: 9px;
     cursor: pointer;
