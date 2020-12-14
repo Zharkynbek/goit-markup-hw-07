@@ -801,7 +801,7 @@ summary {
 
 .checkbox:checked + .galochka {
   background-color: #2196f3;
-  background-image: url("/images/galochka.svg");
+  background-image: url("../../images/galochka.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-origin: border-box;
@@ -810,7 +810,7 @@ summary {
 
 .checkbox:checked:focus + .galochka {
   background-color: #2196f3;
-  background-image: url("/images/galochka.svg");
+  background-image: url("../../images/galochka.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-origin: border-box;
